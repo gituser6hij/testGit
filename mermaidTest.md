@@ -42,7 +42,7 @@ Future task2               :         des4, after des3, 5d
 
 <hr>
 
-''' mermaid
+``` mermaid
 classDiagram
 Class01 <|-- AveryLongClass : Cool
 Class03 *-- Class04
