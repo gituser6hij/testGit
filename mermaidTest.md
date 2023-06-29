@@ -1,13 +1,13 @@
-```mermaid
+``` mermaid
 graph TD;
     A-->B;
     A-->C;
     B-->D;
     C-->D;
 ```
---
+
 <hr>
---
+
 
 ``` mermaid
     sequenceDiagram
@@ -23,7 +23,9 @@ graph TD;
     Bob-->>John: Jolly good!
 ```
 
-```mermaid
+<hr>
+
+``` mermaid
 
     gantt
 dateFormat  YYYY-MM-DD
