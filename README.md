@@ -48,6 +48,6 @@ ayo
 |--|--|
 ``
 
-[user137's portfolio](https://user137-porfolio.auditutils.com)
+[user137's portfolio](https://user137-portfolio.auditutils.com)
 
 ![entuser137 er image description here](https://user137-portfolio.auditutils.com/user137.PNG)
