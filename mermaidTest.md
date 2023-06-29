@@ -6,8 +6,10 @@ graph TD;
     C-->D;
 ```
 --
+<hr>
+--
 
-```mermaid
+``` mermaid
     sequenceDiagram
     participant Alice
     participant Bob
