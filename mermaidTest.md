@@ -92,7 +92,7 @@ pie
 "Rats" : 15
 
 ```
-
+<hr>
 ``` mermaid
 C4Context
 title System Context diagram for Internet Banking System
@@ -126,4 +126,15 @@ BiRel(customerA, SystemAA, "Uses")
 BiRel(SystemAA, SystemE, "Uses")
 Rel(SystemAA, SystemC, "Sends e-mails", "SMTP")
 Rel(SystemC, customerA, "Sends e-mails to")
+```
+<hr>
+``` mermaid
+
+flowchart TD
+    A[script] -->|create transaction| B(smart contract)
+    B --> C{gnosis safe contract}
+    C -->|One| D[Laptop]
+    C -->|Two| E[iPhone]
+    C -->|Three| F[fa:fa-car Car]
+
 ```
