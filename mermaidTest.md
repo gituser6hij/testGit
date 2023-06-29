@@ -1,5 +1,4 @@
 ```mermaid
-
 graph TD;
     A-->B;
     A-->C;
@@ -7,6 +6,7 @@ graph TD;
     C-->D;
 ```
 
+```mermaid
     sequenceDiagram
     participant Alice
     participant Bob
@@ -18,6 +18,9 @@ graph TD;
     John-->>Alice: Great!
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
+```
+
+```mermaid
 
     gantt
 dateFormat  YYYY-MM-DD
